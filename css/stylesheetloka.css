@@ -1,0 +1,177 @@
+* { margin: 0; }
+html, body { background-color: #cccccc; height: 100%; }
+p{ font-size: 1em;}
+
+.wrapper{
+	max-width: 1024px;
+	margin: auto;
+	background-color: white;
+	min-height: 100%;
+  height: auto !important;
+	margin: 0em auto -14em auto;
+}
+
+.efni{
+	padding: 1.5em;
+	margin-top: 50px;
+  margin-bottom: -14em;
+}
+
+/*Form element*/
+form div { margin-bottom: 1em; float: left; clear: left; }
+form input[type=text] { width: 242px; padding: 0.5em; margin: 0.5em;}
+form textarea { width: 242px; padding: 0.5em; margin: 0.5em; }
+
+/*Slider element*/
+#slider_wrapper{
+  max-height: 400px;
+}
+
+#slider_wrapper #slider{
+  position: relative;
+  margin: auto;
+  width: 80%;
+  background: url('../myndir/loading.gif') no-repeat 50% 50%;
+}
+
+#slider_wrapper #slider img{
+  position: absolute;
+  top:0;
+  left: 0;
+  display: none;
+}
+
+
+/*Footer element*/
+#footer {
+  margin: auto;
+  max-width: 1024px;
+  padding-top: 2em;
+  background-color: #779cf4;
+  min-height: 6em;
+  clear: both;
+  bottom: 0px;
+}
+
+#footer .footer_box{
+  margin: 0 8%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+
+/*Hafa samband element*/
+div.errors { margin-bottom: 1em; padding: 0.5em; border: 1px solid #c66; background: #fee;  }
+div.errors ul { margin-left: 2em; }
+div.errors li { margin-bottom: 0.5em; }
+/*p.success { padding: 0.5em; border: 1px solid green; background: lightgreen; font-size: 2em; margin-bottom: 1em; }
+*/
+#villubox {height: 200px;}
+
+
+
+/*Uppl element*/
+/*.midja{ margin: 2em auto;} /*Staðsetja google kort*/
+#map_canvas { /*Google kort*/
+  width: 500px;
+  min-height: 400px;
+  background-color: #CCC;
+}
+
+
+
+
+
+/*Starfsfólk element*/
+.allir{
+  display: block;
+  clear: both;
+  position: relative;
+}
+.staff{
+  padding: 1em;
+  padding-top: 60px;
+  display: block;
+  vertical-align: top;
+}
+.staff img{
+  height: 300px;
+  border: 4px solid #388E8E;
+  border-radius: 10px;
+}
+
+.staff div{
+  display: inline-block;
+  padding-left: 1.5em;
+}
+
+.staff div h3{
+  display: block;
+}
+
+
+/*Litaður navbar element*/
+.navbar-default {
+    background-color: #407de3;
+    border-color: #779cf4;
+}
+.navbar-default .navbar-brand {
+    color: #eaeffd;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #e1eafd;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #eaeffd;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #e1eafd;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #e1eafd;
+    background-color: #779cf4;
+}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #e1eafd;
+    background-color: #779cf4;
+}
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: #eaeffd;
+    border-bottom-color: #eaeffd;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #e1eafd;
+    border-bottom-color: #e1eafd;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #e1eafd;
+    border-bottom-color: #e1eafd;
+}
+.navbar-default .navbar-toggle {
+    border-color: #779cf4;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #779cf4;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #eaeffd;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #eaeffd;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #e1eafd;
+    }
+}

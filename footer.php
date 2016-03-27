@@ -21,7 +21,7 @@
 	      		</div>
 
 	      		<div class="footer_box" id="center">
-	      			<h3><a href="opnunartimar.php">Opnunartímar</a></h3>
+	      			<h3>Opnunartímar</h3>
 	      			<ul>
 		      			<li>Opið er hjá okkur</li>
 		      			<li>frá kl. 08:00 til kl. 17:00</li>
@@ -35,7 +35,7 @@
 		<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
 		<script type="text/javascript" src="js/jquery.validate.js"></script>
 		<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-		<script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="js/scriptloka.js"></script>
 	</body>
 
 </html>

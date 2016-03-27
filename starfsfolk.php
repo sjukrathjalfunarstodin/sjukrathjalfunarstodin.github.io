@@ -16,9 +16,7 @@
 							<p>Löggiltur sjúkraþjálfari</p>
 							<a class="nanar" id="Asdiss">Nánar</a>
 							<div id="nanarAsdiss" class="nanartoggle">
-								<p>Email: <a href="mailto:blaaaa@hi.is">laaaaa@hi.is</a></p>
-								<p>Ásdís útskrifaðist frá Háskóla Íslands með Bsc í Sjúkraþjálfun.</p>
-								<p>Hún hefur einnig lokið námi í Manual Therapy MTc.</p>
+								<p>....</p>
 							</div>
 						</div>
 				</div>
@@ -32,14 +30,8 @@
 							<p>Löggiltur sjúkraþjálfari</p>
 							<a class="nanar" id="Fridgeirr">Nánar</a>
 							<div id="nanarFridgeirr"  class="nanartoggle">
-								<p>Email: <a href="mailto:fridgeir.halldorsson@gmail.com">fridgeir.halldorsson@gmail.is</a></p>
 								<p>Friðgeir útskrifaðist frá Háskóla Íslands með Bsc í Sjúkraþjálfun.</p>
 								<p>Hann hefur einnig lokið Íþróttakennaranámi frá Íþróttakennaraskólanum að Laugarvatni.</p>
-								<p>Hér er líka hægt að setja lengri texta. Ekkert mál. Hann verður bara lengri og lengri og lengri og lengri.</p>
-								<p>Hér er líka hægt að setja lengri texta. Ekkert mál. Hann verður bara lengri og lengri og lengri og lengri.</p>
-								<p>Hér er líka hægt að setja lengri texta. Ekkert mál. Hann verður bara lengri og lengri og lengri og lengri.</p>
-								<p>Hér er líka hægt að setja lengri texta. Ekkert mál. Hann verður bara lengri og lengri og lengri og lengri.</p>
-								<p>Hér er líka hægt að setja lengri texta. Ekkert mál. Hann verður bara lengri og lengri og lengri og lengri.</p>
 							</div>
 						</div>
 				</div>
@@ -51,7 +43,6 @@
 					<div class="texti">
 						<h3>Guðbjörg Bergs</h3>
 						<p>Guðbjörg er aðstoðarmanneskja hjá Sjúkraþjálfunarstöðinni.</p>
-						<p>Hún er alveg frábær!</p>
 					</div>
 				</div>
 			
@@ -64,9 +55,7 @@
 						<p>Löggiltur sjúkraþjálfari</p>
 						<a class="nanar" id="Hlynurr">Nánar</a>
 						<div id="nanarHlynurr"  class="nanartoggle">
-							<p>Email: <a href="mailto:gottemail@gottemail.is">frabaertemail@snilld.is</a></p>
-							<p>Þessi starfsmaður er frábær. Hann er svo rosalega frábær að það er ekki enn til texti um hann.</p>
-							<p>Á næstu dögum kemur einhver ofur góður texti um þennan starfsmann. Þangað til verður bara að treysta orðum mínum um hversu frábær hann er.</p>
+							<p>...</p>
 						</div>
 					</div>
 				</div>
@@ -78,7 +67,6 @@
 					<div class="texti">
 						<h3>Ingibjörg Þorbjörnsdóttir</h3>
 						<p>Ingibjörg er aðstoðarkona hjá Sjúkraþjálfunarstöðinni.</p>
-						<p>Hún er alveg frábær!</p>
 					</div>
 				</div>
 			
@@ -92,9 +80,7 @@
 						<p>Löggiltur sjúkraþjálfari</p>
 						<a class="nanar" id="Kolbrunn">Nánar</a>
 						<div id="nanarKolbrunn"  class="nanartoggle">
-							<p>Email: <a href="mailto:gottemail@gottemail.is">frabaertemail@snilld.is</a></p>
-							<p>Þessi starfsmaður er frábær. Hann er svo rosalega frábær að það er ekki enn til texti um hann.</p>
-							<p>Á næstu dögum kemur einhver ofur góður texti um þennan starfsmann. Þangað til verður bara að treysta orðum mínum um hversu frábær hann er.</p>
+							<p>...</p>
 						</div>
 					</div>
 				</div>
@@ -109,9 +95,7 @@
 						<p>Löggiltur sjúkraþjálfari</p>
 						<a class="nanar" id="Laufeyy">Nánar</a>
 						<div id="nanarLaufeyy"  class="nanartoggle">
-							<p>Email: <a href="mailto:gottemail@gottemail.is">frabaertemail@snilld.is</a></p>
-							<p>Þessi starfsmaður er frábær. Hann er svo rosalega frábær að það er ekki enn til texti um hann.</p>
-							<p>Á næstu dögum kemur einhver ofur góður texti um þennan starfsmann. Þangað til verður bara að treysta orðum mínum um hversu frábær hann er.</p>
+							<p>...</p>
 						</div>
 					</div>
 				</div>
@@ -126,9 +110,7 @@
 						<p>Löggiltur sjúkraþjálfari</p>
 						<a class="nanar" id="Ragnheidurr">Nánar</a>
 						<div id="nanarRagnheidurr"  class="nanartoggle">
-							<p>Email: <a href="mailto:gottemail@gottemail.is">frabaertemail@snilld.is</a></p>
-							<p>Þessi starfsmaður er frábær. Hann er svo rosalega frábær að það er ekki enn til texti um hann.</p>
-							<p>Á næstu dögum kemur einhver ofur góður texti um þennan starfsmann. Þangað til verður bara að treysta orðum mínum um hversu frábær hann er.</p>
+							<p>...</p>
 						</div>
 					</div>
 				</div>
@@ -143,9 +125,7 @@
 						<p>Löggiltur sjúkraþjálfari</p>
 						<a class="nanar" id="Rosaa">Nánar</a>
 						<div id="nanarRosaa"  class="nanartoggle">
-							<p>Email: <a href="mailto:gottemail@gottemail.is">frabaertemail@snilld.is</a></p>
-							<p>Þessi starfsmaður er frábær. Hann er svo rosalega frábær að það er ekki enn til texti um hann.</p>
-							<p>Á næstu dögum kemur einhver ofur góður texti um þennan starfsmann. Þangað til verður bara að treysta orðum mínum um hversu frábær hann er.</p>
+							<p>...</p>
 						</div>
 					</div>
 				</div>
